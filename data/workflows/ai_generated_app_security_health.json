@@ -1,0 +1,6 @@
+{
+  "code": "0",
+  "status": "healthy",
+  "service": "ai_generated_app_security_workflow",
+  "message": "工作流静态端点可用。"
+}
