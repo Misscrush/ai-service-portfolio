@@ -1,0 +1,25 @@
+{
+  "task_id": "ai_generated_app_security_check_demo_001",
+  "workflow_status": "running",
+  "message": "AI生成网站/小程序安全排雷任务已创建。请用 task_id 调用结果查询接口获取标准检查清单和报告模板。",
+  "accepted_inputs": {
+    "project_type": "website|miniprogram|h5|admin|saas|payment",
+    "asset_scope": "自有或已授权域名/小程序/后台路径",
+    "has_login": true,
+    "has_payment": false,
+    "has_upload": true,
+    "has_admin": true
+  },
+  "usage_boundary": {
+    "allowed": [
+      "自有或已授权项目上线前防御性安全自查",
+      "AI生成代码的权限、密钥、表单、上传、支付流程排雷",
+      "输出修复优先级和报告模板"
+    ],
+    "not_allowed": [
+      "未授权扫描第三方网站、小程序或接口",
+      "爆破、撞库、绕过鉴权、支付绕过、漏洞利用",
+      "提供攻击 payload、木马后门、社工或规避风控方法"
+    ]
+  }
+}
