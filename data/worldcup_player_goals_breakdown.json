@@ -3,7 +3,7 @@
   "version": "2026-06-18",
   "name": "worldcup_player_goals_breakdown",
   "description": "世界杯球员进球分届统计。输入球员名后可按 player/player_cn/aliases 在返回数据中筛选，得到该球员世界杯总进球数，以及每届世界杯分别进了几个球。",
-  "as_of": "2026-06-21T23:44:26.868Z",
+  "as_of": "2026-06-22T12:26:02.696Z",
   "data_note": "历史分届统计 + ESPN 2026 FIFA World Cup scoring 页面自动刷新。2026 数据为进行中赛事快照，最终数据以赛事结束后复核为准。",
   "usage_boundary": {
     "allowed": [
@@ -63,7 +63,7 @@
         }
       ],
       "status": "in_progress_2026",
-      "as_of": "2026-06-21T23:44:26.868Z",
+      "as_of": "2026-06-22T12:26:02.696Z",
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/45843/lionel-messi",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/202/argentina",
       "appearances_2026": 1
@@ -181,7 +181,7 @@
         }
       ],
       "status": "in_progress_2026",
-      "as_of": "2026-06-21T23:44:26.868Z",
+      "as_of": "2026-06-22T12:26:02.696Z",
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/231388/kylian-mbappe",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/478/france",
       "appearances_2026": 1
@@ -383,7 +383,7 @@
         }
       ],
       "status": "in_progress_2026",
-      "as_of": "2026-06-21T23:44:26.868Z",
+      "as_of": "2026-06-22T12:26:02.696Z",
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/142200/harry-kane",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/448/england",
       "appearances_2026": 1
@@ -861,7 +861,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/273300/deniz-undav",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/481/germany",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Jonathan David",
@@ -882,7 +882,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/273499/jonathan-david",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/206/canada",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Ayase Ueda",
@@ -903,7 +903,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/274277/ayase-ueda",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/627/japan",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Brian Brobbey",
@@ -924,7 +924,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/282229/brian-brobbey",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/449/netherlands",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Cody Gakpo",
@@ -945,7 +945,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/249524/cody-gakpo",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/449/netherlands",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Crysencio Summerville",
@@ -966,7 +966,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/284792/crysencio-summerville",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/449/netherlands",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Cyle Larin",
@@ -987,7 +987,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/205024/cyle-larin",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/206/canada",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Daichi Kamada",
@@ -1008,7 +1008,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/219362/daichi-kamada",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/627/japan",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Elijah Just",
@@ -1028,8 +1028,8 @@
       "status": "live_only_2026",
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/266555/elijah-just",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/2666/new-zealand",
-      "appearances_2026": 1,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "appearances_2026": 2,
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Erling Haaland",
@@ -1050,7 +1050,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/253989/erling-haaland",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/464/norway",
       "appearances_2026": 1,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Folarin Balogun",
@@ -1071,7 +1071,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/282643/folarin-balogun",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/660/united-states",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Ismael Saibari",
@@ -1092,7 +1092,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/304572/ismael-saibari",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/2869/morocco",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Johan Manzambi",
@@ -1113,7 +1113,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/386992/johan-manzambi",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/475/switzerland",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Kai Havertz",
@@ -1134,7 +1134,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/231182/kai-havertz",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/481/germany",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Matheus Cunha",
@@ -1155,7 +1155,49 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/259902/matheus-cunha",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/205/brazil",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
+    },
+    {
+      "player": "Maxi Araújo",
+      "player_cn": "Maxi Araújo",
+      "aliases": [
+        "Maxi Araújo"
+      ],
+      "team": "Uruguay",
+      "team_cn": "Uruguay",
+      "total_goals": 2,
+      "breakdown": [
+        {
+          "worldcup": 2026,
+          "goals": 2
+        }
+      ],
+      "status": "live_only_2026",
+      "espn_player_url": "https://www.espn.com/soccer/player/_/id/287025/maxi-araujo",
+      "espn_team_url": "https://www.espn.com/soccer/team/_/id/212/uruguay",
+      "appearances_2026": 2,
+      "as_of": "2026-06-22T12:26:02.696Z"
+    },
+    {
+      "player": "Mikel Oyarzabal",
+      "player_cn": "Mikel Oyarzabal",
+      "aliases": [
+        "Mikel Oyarzabal"
+      ],
+      "team": "Spain",
+      "team_cn": "Spain",
+      "total_goals": 2,
+      "breakdown": [
+        {
+          "worldcup": 2026,
+          "goals": 2
+        }
+      ],
+      "status": "live_only_2026",
+      "espn_player_url": "https://www.espn.com/soccer/player/_/id/229018/mikel-oyarzabal",
+      "espn_team_url": "https://www.espn.com/soccer/team/_/id/164/spain",
+      "appearances_2026": 2,
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Vinícius Júnior",
@@ -1176,7 +1218,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/252107/vinicius-junior",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/205/brazil",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Yasin Ayari",
@@ -1197,7 +1239,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/304242/yasin-ayari",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/466/sweden",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Abbosbek Fayzullaev",
@@ -1238,8 +1280,8 @@
       "status": "live_only_2026",
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/256667/abdulelah-al-amri",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/655/saudi-arabia",
-      "appearances_2026": 1,
-      "as_of": "2026-06-21T07:07:32.960Z"
+      "appearances_2026": 2,
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Alex Freeman",
@@ -1260,7 +1302,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/248276/alex-freeman",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/660/united-states",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Alexander Isak",
@@ -1281,7 +1323,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/235662/alexander-isak",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/466/sweden",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Ali Olwan",
@@ -1386,7 +1428,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/202099/breel-embolo",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/475/switzerland",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Caleb Yirenkyi",
@@ -1428,7 +1470,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/260643/connor-metcalfe",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/628/australia",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Daniel Muñoz",
@@ -1469,8 +1511,8 @@
       "status": "live_only_2026",
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/299365/emam-ashour",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/2620/egypt",
-      "appearances_2026": 1,
-      "as_of": "2026-06-18T18:11:30.811Z"
+      "appearances_2026": 2,
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Felix Nmecha",
@@ -1491,7 +1533,28 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/281122/felix-nmecha",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/481/germany",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
+    },
+    {
+      "player": "Finn Surman",
+      "player_cn": "Finn Surman",
+      "aliases": [
+        "Finn Surman"
+      ],
+      "team": "New Zealand",
+      "team_cn": "New Zealand",
+      "total_goals": 1,
+      "breakdown": [
+        {
+          "worldcup": 2026,
+          "goals": 1
+        }
+      ],
+      "status": "live_only_2026",
+      "espn_player_url": "https://www.espn.com/soccer/player/_/id/332367/finn-surman",
+      "espn_team_url": "https://www.espn.com/soccer/team/_/id/2666/new-zealand",
+      "appearances_2026": 2,
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Franck Kessié",
@@ -1512,7 +1575,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/194711/franck-kessie",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/4789/ivory-coast",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Giovanni Reyna",
@@ -1554,7 +1617,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/149981/granit-xhaka",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/475/switzerland",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Hwang In-Beom",
@@ -1575,7 +1638,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/280061/hwang-in-beom",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/451/south-korea",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Jamal Musiala",
@@ -1638,7 +1701,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/162843/john-mcginn",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/580/scotland",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Jovo Lukic",
@@ -1701,7 +1764,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/233075/julian-quinones",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/203/mexico",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Junya Ito",
@@ -1743,7 +1806,28 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/265953/keito-nakamura",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/627/japan",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
+    },
+    {
+      "player": "Kevin Pina",
+      "player_cn": "Kevin Pina",
+      "aliases": [
+        "Kevin Pina"
+      ],
+      "team": "Cape Verde",
+      "team_cn": "Cape Verde",
+      "total_goals": 1,
+      "breakdown": [
+        {
+          "worldcup": 2026,
+          "goals": 1
+        }
+      ],
+      "status": "live_only_2026",
+      "espn_player_url": "https://www.espn.com/soccer/player/_/id/327173/kevin-pina",
+      "espn_team_url": "https://www.espn.com/soccer/team/_/id/2597/cape-verde",
+      "appearances_2026": 2,
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Ladislav Krejcí",
@@ -1764,7 +1848,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/151714/ladislav-krejci",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/450/czechia",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Livano Comenencia",
@@ -1785,7 +1869,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/317285/livano-comenencia",
       "espn_team_url": "https://www.espn.com/soccer/club/_/id/11678/curacao",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Luis Díaz",
@@ -1893,27 +1977,6 @@
       "as_of": "2026-06-18T18:11:30.811Z"
     },
     {
-      "player": "Maxi Araújo",
-      "player_cn": "Maxi Araújo",
-      "aliases": [
-        "Maxi Araújo"
-      ],
-      "team": "Uruguay",
-      "team_cn": "Uruguay",
-      "total_goals": 1,
-      "breakdown": [
-        {
-          "worldcup": 2026,
-          "goals": 1
-        }
-      ],
-      "status": "live_only_2026",
-      "espn_player_url": "https://www.espn.com/soccer/player/_/id/287025/maxi-araujo",
-      "espn_team_url": "https://www.espn.com/soccer/team/_/id/212/uruguay",
-      "appearances_2026": 1,
-      "as_of": "2026-06-19T23:14:41.370Z"
-    },
-    {
       "player": "Michal Sadílek",
       "player_cn": "Michal Sadílek",
       "aliases": [
@@ -1935,6 +1998,27 @@
       "as_of": "2026-06-21T23:44:26.868Z"
     },
     {
+      "player": "Mohamed Salah",
+      "player_cn": "Mohamed Salah",
+      "aliases": [
+        "Mohamed Salah"
+      ],
+      "team": "Egypt",
+      "team_cn": "Egypt",
+      "total_goals": 1,
+      "breakdown": [
+        {
+          "worldcup": 2026,
+          "goals": 1
+        }
+      ],
+      "status": "live_only_2026",
+      "espn_player_url": "https://www.espn.com/soccer/player/_/id/173896/mohamed-salah",
+      "espn_team_url": "https://www.espn.com/soccer/team/_/id/2620/egypt",
+      "appearances_2026": 2,
+      "as_of": "2026-06-22T12:26:02.696Z"
+    },
+    {
       "player": "Mohammad Mohebbi",
       "player_cn": "Mohammad Mohebbi",
       "aliases": [
@@ -1952,8 +2036,29 @@
       "status": "live_only_2026",
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/296999/mohammad-mohebbi",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/469/iran",
-      "appearances_2026": 1,
-      "as_of": "2026-06-21T07:07:32.960Z"
+      "appearances_2026": 2,
+      "as_of": "2026-06-22T12:26:02.696Z"
+    },
+    {
+      "player": "Mostafa Zico",
+      "player_cn": "Mostafa Zico",
+      "aliases": [
+        "Mostafa Zico"
+      ],
+      "team": "Egypt",
+      "team_cn": "Egypt",
+      "total_goals": 1,
+      "breakdown": [
+        {
+          "worldcup": 2026,
+          "goals": 1
+        }
+      ],
+      "status": "live_only_2026",
+      "espn_player_url": "https://www.espn.com/soccer/player/_/id/378495/mostafa-zico",
+      "espn_team_url": "https://www.espn.com/soccer/team/_/id/2620/egypt",
+      "appearances_2026": 2,
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Nathaniel Brown",
@@ -1974,7 +2079,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/120829/nathaniel-brown",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/481/germany",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Nestory Irankunda",
@@ -2016,7 +2121,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/286828/nico-schlotterbeck",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/481/germany",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Oh Hyeon-Gyu",
@@ -2058,7 +2163,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/303848/omar-rekik",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/659/tunisia",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Petar Musa",
@@ -2099,8 +2204,8 @@
       "status": "live_only_2026",
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/218086/ramin-rezaeian",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/469/iran",
-      "appearances_2026": 1,
-      "as_of": "2026-06-21T07:07:32.960Z"
+      "appearances_2026": 2,
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Raúl Jiménez",
@@ -2121,7 +2226,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/167060/raul-jimenez",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/203/mexico",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Romano Schmid",
@@ -2184,7 +2289,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/256691/teboho-mokoena",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/467/south-africa",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Viktor Gyökeres",
@@ -2205,7 +2310,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/258906/viktor-gyokeres",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/466/sweden",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Virgil van Dijk",
@@ -2226,7 +2331,7 @@
       "espn_player_url": "https://www.espn.com/soccer/player/_/id/157892/virgil-van-dijk",
       "espn_team_url": "https://www.espn.com/soccer/team/_/id/449/netherlands",
       "appearances_2026": 2,
-      "as_of": "2026-06-21T23:44:26.868Z"
+      "as_of": "2026-06-22T12:26:02.696Z"
     },
     {
       "player": "Yoane Wissa",
@@ -2271,7 +2376,7 @@
   "live_2026_source": {
     "name": "ESPN FIFA World Cup scoring stats",
     "url": "https://www.espn.com/soccer/stats/_/league/fifa.world",
-    "fetched_at": "2026-06-21T23:44:26.868Z",
+    "fetched_at": "2026-06-22T12:26:02.696Z",
     "row_count": 50
   },
   "live_2026_top_scorers": [
@@ -2304,6 +2409,15 @@
     },
     {
       "rank": 4,
+      "player": "Elijah Just",
+      "team": "New Zealand",
+      "appearances_2026": 2,
+      "goals_2026": 2,
+      "player_url": "https://www.espn.com/soccer/player/_/id/266555/elijah-just",
+      "team_url": "https://www.espn.com/soccer/team/_/id/2666/new-zealand"
+    },
+    {
+      "rank": 5,
       "player": "Kai Havertz",
       "team": "Germany",
       "appearances_2026": 2,
@@ -2312,7 +2426,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/481/germany"
     },
     {
-      "rank": 5,
+      "rank": 6,
       "player": "Cody Gakpo",
       "team": "Netherlands",
       "appearances_2026": 2,
@@ -2321,7 +2435,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/449/netherlands"
     },
     {
-      "rank": 6,
+      "rank": 7,
       "player": "Ismael Saibari",
       "team": "Morocco",
       "appearances_2026": 2,
@@ -2330,7 +2444,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/2869/morocco"
     },
     {
-      "rank": 7,
+      "rank": 8,
       "player": "Vinícius Júnior",
       "team": "Brazil",
       "appearances_2026": 2,
@@ -2339,7 +2453,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/205/brazil"
     },
     {
-      "rank": 8,
+      "rank": 9,
       "player": "Yasin Ayari",
       "team": "Sweden",
       "appearances_2026": 2,
@@ -2348,7 +2462,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/466/sweden"
     },
     {
-      "rank": 9,
+      "rank": 10,
       "player": "Ayase Ueda",
       "team": "Japan",
       "appearances_2026": 2,
@@ -2357,7 +2471,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/627/japan"
     },
     {
-      "rank": 10,
+      "rank": 11,
       "player": "Daichi Kamada",
       "team": "Japan",
       "appearances_2026": 2,
@@ -2366,7 +2480,16 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/627/japan"
     },
     {
-      "rank": 11,
+      "rank": 12,
+      "player": "Maxi Araújo",
+      "team": "Uruguay",
+      "appearances_2026": 2,
+      "goals_2026": 2,
+      "player_url": "https://www.espn.com/soccer/player/_/id/287025/maxi-araujo",
+      "team_url": "https://www.espn.com/soccer/team/_/id/212/uruguay"
+    },
+    {
+      "rank": 13,
       "player": "Folarin Balogun",
       "team": "United States",
       "appearances_2026": 2,
@@ -2375,7 +2498,16 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/660/united-states"
     },
     {
-      "rank": 12,
+      "rank": 14,
+      "player": "Mikel Oyarzabal",
+      "team": "Spain",
+      "appearances_2026": 2,
+      "goals_2026": 2,
+      "player_url": "https://www.espn.com/soccer/player/_/id/229018/mikel-oyarzabal",
+      "team_url": "https://www.espn.com/soccer/team/_/id/164/spain"
+    },
+    {
+      "rank": 15,
       "player": "Crysencio Summerville",
       "team": "Netherlands",
       "appearances_2026": 2,
@@ -2384,7 +2516,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/449/netherlands"
     },
     {
-      "rank": 13,
+      "rank": 16,
       "player": "Cyle Larin",
       "team": "Canada",
       "appearances_2026": 2,
@@ -2393,7 +2525,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/206/canada"
     },
     {
-      "rank": 14,
+      "rank": 17,
       "player": "Matheus Cunha",
       "team": "Brazil",
       "appearances_2026": 2,
@@ -2402,7 +2534,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/205/brazil"
     },
     {
-      "rank": 15,
+      "rank": 18,
       "player": "Brian Brobbey",
       "team": "Netherlands",
       "appearances_2026": 2,
@@ -2411,7 +2543,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/449/netherlands"
     },
     {
-      "rank": 16,
+      "rank": 19,
       "player": "Johan Manzambi",
       "team": "Switzerland",
       "appearances_2026": 2,
@@ -2420,16 +2552,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/475/switzerland"
     },
     {
-      "rank": 17,
-      "player": "Elijah Just",
-      "team": "New Zealand",
-      "appearances_2026": 1,
-      "goals_2026": 2,
-      "player_url": "https://www.espn.com/soccer/player/_/id/266555/elijah-just",
-      "team_url": "https://www.espn.com/soccer/team/_/id/2666/new-zealand"
-    },
-    {
-      "rank": 18,
+      "rank": 20,
       "player": "Erling Haaland",
       "team": "Norway",
       "appearances_2026": 1,
@@ -2438,7 +2561,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/464/norway"
     },
     {
-      "rank": 19,
+      "rank": 21,
       "player": "Kylian Mbappé",
       "team": "France",
       "appearances_2026": 1,
@@ -2447,7 +2570,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/478/france"
     },
     {
-      "rank": 20,
+      "rank": 22,
       "player": "Harry Kane",
       "team": "England",
       "appearances_2026": 1,
@@ -2456,7 +2579,16 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/448/england"
     },
     {
-      "rank": 21,
+      "rank": 23,
+      "player": "Finn Surman",
+      "team": "New Zealand",
+      "appearances_2026": 2,
+      "goals_2026": 1,
+      "player_url": "https://www.espn.com/soccer/player/_/id/332367/finn-surman",
+      "team_url": "https://www.espn.com/soccer/team/_/id/2666/new-zealand"
+    },
+    {
+      "rank": 24,
       "player": "Omar Rekik",
       "team": "Tunisia",
       "appearances_2026": 2,
@@ -2465,7 +2597,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/659/tunisia"
     },
     {
-      "rank": 22,
+      "rank": 25,
       "player": "Viktor Gyökeres",
       "team": "Sweden",
       "appearances_2026": 2,
@@ -2474,7 +2606,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/466/sweden"
     },
     {
-      "rank": 23,
+      "rank": 26,
       "player": "Teboho Mokoena",
       "team": "South Africa",
       "appearances_2026": 2,
@@ -2483,7 +2615,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/467/south-africa"
     },
     {
-      "rank": 24,
+      "rank": 27,
       "player": "Alex Freeman",
       "team": "United States",
       "appearances_2026": 2,
@@ -2492,7 +2624,16 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/660/united-states"
     },
     {
-      "rank": 25,
+      "rank": 28,
+      "player": "Ramin Rezaeian",
+      "team": "Iran",
+      "appearances_2026": 2,
+      "goals_2026": 1,
+      "player_url": "https://www.espn.com/soccer/player/_/id/218086/ramin-rezaeian",
+      "team_url": "https://www.espn.com/soccer/team/_/id/469/iran"
+    },
+    {
+      "rank": 29,
       "player": "Franck Kessié",
       "team": "Ivory Coast",
       "appearances_2026": 2,
@@ -2501,7 +2642,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/4789/ivory-coast"
     },
     {
-      "rank": 26,
+      "rank": 30,
       "player": "Virgil van Dijk",
       "team": "Netherlands",
       "appearances_2026": 2,
@@ -2510,7 +2651,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/449/netherlands"
     },
     {
-      "rank": 27,
+      "rank": 31,
       "player": "Ladislav Krejcí",
       "team": "Czechia",
       "appearances_2026": 2,
@@ -2519,7 +2660,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/450/czechia"
     },
     {
-      "rank": 28,
+      "rank": 32,
       "player": "Granit Xhaka",
       "team": "Switzerland",
       "appearances_2026": 2,
@@ -2528,7 +2669,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/475/switzerland"
     },
     {
-      "rank": 29,
+      "rank": 33,
       "player": "Alexander Isak",
       "team": "Sweden",
       "appearances_2026": 2,
@@ -2537,7 +2678,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/466/sweden"
     },
     {
-      "rank": 30,
+      "rank": 34,
       "player": "Breel Embolo",
       "team": "Switzerland",
       "appearances_2026": 2,
@@ -2546,7 +2687,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/475/switzerland"
     },
     {
-      "rank": 31,
+      "rank": 35,
       "player": "Livano Comenencia",
       "team": "Curaçao",
       "appearances_2026": 2,
@@ -2555,7 +2696,7 @@
       "team_url": "https://www.espn.com/soccer/club/_/id/11678/curacao"
     },
     {
-      "rank": 32,
+      "rank": 36,
       "player": "Hwang In-Beom",
       "team": "South Korea",
       "appearances_2026": 2,
@@ -2564,7 +2705,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/451/south-korea"
     },
     {
-      "rank": 33,
+      "rank": 37,
       "player": "John McGinn",
       "team": "Scotland",
       "appearances_2026": 2,
@@ -2573,7 +2714,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/580/scotland"
     },
     {
-      "rank": 34,
+      "rank": 38,
       "player": "Keito Nakamura",
       "team": "Japan",
       "appearances_2026": 2,
@@ -2582,7 +2723,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/627/japan"
     },
     {
-      "rank": 35,
+      "rank": 39,
       "player": "Felix Nmecha",
       "team": "Germany",
       "appearances_2026": 2,
@@ -2591,7 +2732,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/481/germany"
     },
     {
-      "rank": 36,
+      "rank": 40,
       "player": "Julián Quiñones",
       "team": "Mexico",
       "appearances_2026": 2,
@@ -2600,7 +2741,7 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/203/mexico"
     },
     {
-      "rank": 37,
+      "rank": 41,
       "player": "Nathaniel Brown",
       "team": "Germany",
       "appearances_2026": 2,
@@ -2609,7 +2750,43 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/481/germany"
     },
     {
-      "rank": 38,
+      "rank": 42,
+      "player": "Kevin Pina",
+      "team": "Cape Verde",
+      "appearances_2026": 2,
+      "goals_2026": 1,
+      "player_url": "https://www.espn.com/soccer/player/_/id/327173/kevin-pina",
+      "team_url": "https://www.espn.com/soccer/team/_/id/2597/cape-verde"
+    },
+    {
+      "rank": 43,
+      "player": "Mohamed Salah",
+      "team": "Egypt",
+      "appearances_2026": 2,
+      "goals_2026": 1,
+      "player_url": "https://www.espn.com/soccer/player/_/id/173896/mohamed-salah",
+      "team_url": "https://www.espn.com/soccer/team/_/id/2620/egypt"
+    },
+    {
+      "rank": 44,
+      "player": "Emam Ashour",
+      "team": "Egypt",
+      "appearances_2026": 2,
+      "goals_2026": 1,
+      "player_url": "https://www.espn.com/soccer/player/_/id/299365/emam-ashour",
+      "team_url": "https://www.espn.com/soccer/team/_/id/2620/egypt"
+    },
+    {
+      "rank": 45,
+      "player": "Mohammad Mohebbi",
+      "team": "Iran",
+      "appearances_2026": 2,
+      "goals_2026": 1,
+      "player_url": "https://www.espn.com/soccer/player/_/id/296999/mohammad-mohebbi",
+      "team_url": "https://www.espn.com/soccer/team/_/id/469/iran"
+    },
+    {
+      "rank": 46,
       "player": "Raúl Jiménez",
       "team": "Mexico",
       "appearances_2026": 2,
@@ -2618,7 +2795,25 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/203/mexico"
     },
     {
-      "rank": 39,
+      "rank": 47,
+      "player": "Mostafa Zico",
+      "team": "Egypt",
+      "appearances_2026": 2,
+      "goals_2026": 1,
+      "player_url": "https://www.espn.com/soccer/player/_/id/378495/mostafa-zico",
+      "team_url": "https://www.espn.com/soccer/team/_/id/2620/egypt"
+    },
+    {
+      "rank": 48,
+      "player": "Abdulelah Al-Amri",
+      "team": "Saudi Arabia",
+      "appearances_2026": 2,
+      "goals_2026": 1,
+      "player_url": "https://www.espn.com/soccer/player/_/id/256667/abdulelah-al-amri",
+      "team_url": "https://www.espn.com/soccer/team/_/id/655/saudi-arabia"
+    },
+    {
+      "rank": 49,
       "player": "Nico Schlotterbeck",
       "team": "Germany",
       "appearances_2026": 2,
@@ -2627,103 +2822,13 @@
       "team_url": "https://www.espn.com/soccer/team/_/id/481/germany"
     },
     {
-      "rank": 40,
+      "rank": 50,
       "player": "Connor Metcalfe",
       "team": "Australia",
       "appearances_2026": 2,
       "goals_2026": 1,
       "player_url": "https://www.espn.com/soccer/player/_/id/260643/connor-metcalfe",
       "team_url": "https://www.espn.com/soccer/team/_/id/628/australia"
-    },
-    {
-      "rank": 41,
-      "player": "Jamal Musiala",
-      "team": "Germany",
-      "appearances_2026": 2,
-      "goals_2026": 1,
-      "player_url": "https://www.espn.com/soccer/player/_/id/303821/jamal-musiala",
-      "team_url": "https://www.espn.com/soccer/team/_/id/481/germany"
-    },
-    {
-      "rank": 42,
-      "player": "Junya Ito",
-      "team": "Japan",
-      "appearances_2026": 2,
-      "goals_2026": 1,
-      "player_url": "https://www.espn.com/soccer/player/_/id/219350/junya-ito",
-      "team_url": "https://www.espn.com/soccer/team/_/id/627/japan"
-    },
-    {
-      "rank": 43,
-      "player": "Amad Diallo",
-      "team": "Ivory Coast",
-      "appearances_2026": 2,
-      "goals_2026": 1,
-      "player_url": "https://www.espn.com/soccer/player/_/id/291630/amad-diallo",
-      "team_url": "https://www.espn.com/soccer/team/_/id/4789/ivory-coast"
-    },
-    {
-      "rank": 44,
-      "player": "Nestory Irankunda",
-      "team": "Australia",
-      "appearances_2026": 2,
-      "goals_2026": 1,
-      "player_url": "https://www.espn.com/soccer/player/_/id/328535/nestory-irankunda",
-      "team_url": "https://www.espn.com/soccer/team/_/id/628/australia"
-    },
-    {
-      "rank": 45,
-      "player": "Rubén Vargas",
-      "team": "Switzerland",
-      "appearances_2026": 2,
-      "goals_2026": 1,
-      "player_url": "https://www.espn.com/soccer/player/_/id/259513/ruben-vargas",
-      "team_url": "https://www.espn.com/soccer/team/_/id/475/switzerland"
-    },
-    {
-      "rank": 46,
-      "player": "Michal Sadílek",
-      "team": "Czechia",
-      "appearances_2026": 2,
-      "goals_2026": 1,
-      "player_url": "https://www.espn.com/soccer/player/_/id/249525/michal-sadilek",
-      "team_url": "https://www.espn.com/soccer/team/_/id/450/czechia"
-    },
-    {
-      "rank": 47,
-      "player": "Jovo Lukic",
-      "team": "Bosnia-Herzegovina",
-      "appearances_2026": 2,
-      "goals_2026": 1,
-      "player_url": "https://www.espn.com/soccer/player/_/id/305118/jovo-lukic",
-      "team_url": "https://www.espn.com/soccer/team/_/id/452/bosnia-herzegovina"
-    },
-    {
-      "rank": 48,
-      "player": "Oh Hyeon-Gyu",
-      "team": "South Korea",
-      "appearances_2026": 2,
-      "goals_2026": 1,
-      "player_url": "https://www.espn.com/soccer/player/_/id/302434/oh-hyeon-gyu",
-      "team_url": "https://www.espn.com/soccer/team/_/id/451/south-korea"
-    },
-    {
-      "rank": 49,
-      "player": "Anthony Elanga",
-      "team": "Sweden",
-      "appearances_2026": 2,
-      "goals_2026": 1,
-      "player_url": "https://www.espn.com/soccer/player/_/id/296622/anthony-elanga",
-      "team_url": "https://www.espn.com/soccer/team/_/id/466/sweden"
-    },
-    {
-      "rank": 50,
-      "player": "Giovanni Reyna",
-      "team": "United States",
-      "appearances_2026": 2,
-      "goals_2026": 1,
-      "player_url": "https://www.espn.com/soccer/player/_/id/290230/giovanni-reyna",
-      "team_url": "https://www.espn.com/soccer/team/_/id/660/united-states"
     }
   ]
 }
